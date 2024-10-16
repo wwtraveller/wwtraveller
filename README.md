@@ -20,4 +20,3 @@ You can connect with me via [LinkedIn](https://linkedin.com/in/alena-shilimova/)
 ---
 📫 **How to reach me**: [shilimova.a@gmail.com](mailto:shilimova.a@gmail.com)
 
-<img src="https://drive.google.com/file/d/1zPjGuZH5LH7kAEFeroN7ChT8fdG3y-Uj/view" alt="Developer at work">
