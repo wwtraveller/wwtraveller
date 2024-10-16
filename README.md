@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hello, I'm Alena! 👋
 
 I'm a **Full-stack Developer** with a background in economics and over two years of experience working with experts and small business owners. I specialize in **frontend** and **full-stack** development.
@@ -22,4 +20,4 @@ You can connect with me via [LinkedIn](https://linkedin.com/in/alena-shilimova/)
 ---
 📫 **How to reach me**: [shilimova.a@gmail.com](mailto:shilimova.a@gmail.com)
 
-<img src="https://undraw.co/illustration/developer-working.svg" alt="Developer at work">
+<img src="https://drive.google.com/file/d/1zPjGuZH5LH7kAEFeroN7ChT8fdG3y-Uj/view" alt="Developer at work">
